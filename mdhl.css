@@ -6,8 +6,6 @@
     text-shadow:8px 8px 30px rgb(165, 36, 36),
     -2px 2px 20px rgb(165, 36, 36);
   }
-
-  
 body{
      display: flex;
     flex-wrap: wrap;
@@ -70,11 +68,9 @@ nav a{
     text-shadow:2px 2px 30px rgb(165, 36, 36),
     -2px 2px 20px rgb(165, 36, 36);
 }
-
 nav a:hover{
     background-color: rgba(0, 0, 0, 0.692);
-    
-    font-size: 23.8px;
+    font-size: 25px;
 }
 main{
     display: flex;
