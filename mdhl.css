@@ -6,6 +6,8 @@
     text-shadow:8px 8px 30px rgb(165, 36, 36),
     -2px 2px 20px rgb(165, 36, 36);
   }
+
+  
 body{
      display: flex;
     flex-wrap: wrap;
